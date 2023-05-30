@@ -1,0 +1,9 @@
+/Users/bradfordarmstrong/Projects/rust_space/command_line_projects/grrs/target/debug/deps/anstyle_parse-742fc5d7f3bfa958.rmeta: /Users/bradfordarmstrong/.cargo/registry/src/github.com-1ecc6299db9ec823/anstyle-parse-0.2.0/src/lib.rs /Users/bradfordarmstrong/.cargo/registry/src/github.com-1ecc6299db9ec823/anstyle-parse-0.2.0/src/params.rs /Users/bradfordarmstrong/.cargo/registry/src/github.com-1ecc6299db9ec823/anstyle-parse-0.2.0/src/state/mod.rs /Users/bradfordarmstrong/.cargo/registry/src/github.com-1ecc6299db9ec823/anstyle-parse-0.2.0/src/state/definitions.rs /Users/bradfordarmstrong/.cargo/registry/src/github.com-1ecc6299db9ec823/anstyle-parse-0.2.0/src/state/table.rs
+
+/Users/bradfordarmstrong/Projects/rust_space/command_line_projects/grrs/target/debug/deps/anstyle_parse-742fc5d7f3bfa958.d: /Users/bradfordarmstrong/.cargo/registry/src/github.com-1ecc6299db9ec823/anstyle-parse-0.2.0/src/lib.rs /Users/bradfordarmstrong/.cargo/registry/src/github.com-1ecc6299db9ec823/anstyle-parse-0.2.0/src/params.rs /Users/bradfordarmstrong/.cargo/registry/src/github.com-1ecc6299db9ec823/anstyle-parse-0.2.0/src/state/mod.rs /Users/bradfordarmstrong/.cargo/registry/src/github.com-1ecc6299db9ec823/anstyle-parse-0.2.0/src/state/definitions.rs /Users/bradfordarmstrong/.cargo/registry/src/github.com-1ecc6299db9ec823/anstyle-parse-0.2.0/src/state/table.rs
+
+/Users/bradfordarmstrong/.cargo/registry/src/github.com-1ecc6299db9ec823/anstyle-parse-0.2.0/src/lib.rs:
+/Users/bradfordarmstrong/.cargo/registry/src/github.com-1ecc6299db9ec823/anstyle-parse-0.2.0/src/params.rs:
+/Users/bradfordarmstrong/.cargo/registry/src/github.com-1ecc6299db9ec823/anstyle-parse-0.2.0/src/state/mod.rs:
+/Users/bradfordarmstrong/.cargo/registry/src/github.com-1ecc6299db9ec823/anstyle-parse-0.2.0/src/state/definitions.rs:
+/Users/bradfordarmstrong/.cargo/registry/src/github.com-1ecc6299db9ec823/anstyle-parse-0.2.0/src/state/table.rs:
